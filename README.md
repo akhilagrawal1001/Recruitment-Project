@@ -6,7 +6,7 @@ Clickbait_vs_NonClickbait_Classifier:
 	
 	It is a binary text classification model that classifies text into clickbait or a non-clickbait.
 
-CNN_on_Fashion_mnist:
+CNN_on_Mnist:
 
 	It is a multilabel image classification model that classifies any image in 10 different labels.
 	The labels are :
