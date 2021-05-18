@@ -3,12 +3,14 @@ Colab file link: https://colab.research.google.com/drive/1MBckX0VVFB25RXm4TpHylU
 The python file asks if user wants to enter the location of click.txt and non_click.txt, which contain the data by which the model will be trained.
 
 Sample Input(If file is stored in some different directory say '/tmp' directory in google colab server) :
+      
       Do you want to add path for click.txt? (Y/N)
       >>Y
       Enter path w/o quotes:
       >>/tmp/click.txt
       
 Sample Input(If file is simply uploaded on colab which is same as file is stored in '/content' directory on google colab) :
+      
       Do you want to add path for click.txt? (Y/N)
       >>N
 
