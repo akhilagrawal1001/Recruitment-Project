@@ -21,3 +21,8 @@ CNN_on_Mnist:
 	7	Seven
 	8	Eight
 	9	Nine
+
+Regression_Model:
+
+	This is a regression model, predicting the hourly energy output of a combined cycle power plant depending
+	on different factors as mentioned in the project folder.
