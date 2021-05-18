@@ -9,7 +9,7 @@ Clickbait_vs_NonClickbait_Classifier:
 CNN_on_Mnist:
 
 	It is a multilabel image classification model that classifies any image in 10 different labels.
-	The images conatin numbers from 0-9.
+	Any image conatins a number from 0-9.
 	The labels are :
 	0	Zero
 	1	One
