@@ -9,14 +9,15 @@ Clickbait_vs_NonClickbait_Classifier:
 CNN_on_Mnist:
 
 	It is a multilabel image classification model that classifies any image in 10 different labels.
+	The images conatin numbers from 0-9.
 	The labels are :
-	0	T-shirt/top
-	1	Trouser
-	2	Pullover
-	3	Dress
-	4	Coat
-	5	Sandal
-	6	Shirt
-	7	Sneaker
-	8	Bag
-	9	Ankle boot
+	0	Zero
+	1	One
+	2	Two
+	3	Three
+	4	Four
+	5	Five
+	6	Six
+	7	Seven
+	8	Eight
+	9	Nine
