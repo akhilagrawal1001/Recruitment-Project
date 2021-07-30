@@ -45,7 +45,6 @@ lab_dataset = lab_dataset.batch(32)
 
 def custom(input_data):
   lower = tf.strings.lower(input_data)
-
   lower = tf.strings.regex_replace(lower, '\n', ' ')
   lower = tf.strings.regex_replace(lower, '[%s]' % re.escape(string.punctuation), '')
   return lower
